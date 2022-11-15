@@ -22,6 +22,4 @@ permalink: /android
 - [https://kotlinlang.org/docs/getting-started.html](https://kotlinlang.org/docs/getting-started.html)
     - Learn specifically about kotlin on IDEA ide
 
-## Pres Resources
-
 ![QR Code](assets/images/android-qr.png)
